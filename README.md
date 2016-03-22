@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist muhsamsul/yii2-treeimage "*"
+php composer.phar require --prefer-dist muhsamsul/yii2-treeimage "dev-master"
 ```
 
 or add
 
 ```
-"muhsamsul/yii2-treeimage": "*"
+"muhsamsul/yii2-treeimage": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -29,5 +29,5 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \muhsamsul\treeimage\TreeImage::widget(
-	
+
 ); ?>```

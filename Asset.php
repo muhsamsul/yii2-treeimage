@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\widgets\TreeImage;
+namespace muhsamsul\TreeImage;
 
 use yii\web\AssetBundle;
 use yii\web\View;
@@ -18,7 +18,7 @@ use yii\web\View;
  */
 class Asset extends AssetBundle
 {
-    public $sourcePath = '@app/widgets/TreeImage/assets';
+    public $sourcePath = '@vendor/muhsamsul/yii2-treeimage/assets';
 
     public $css = [
         'style.css',
