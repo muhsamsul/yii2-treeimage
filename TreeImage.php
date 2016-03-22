@@ -1,6 +1,6 @@
 <?php
 
-namespace muhsamsul\TreeImage;
+namespace muhsamsul\treeimage;
 
 use Yii;
 use yii\helpers\Html;

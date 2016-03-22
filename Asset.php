@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace muhsamsul\TreeImage;
+namespace muhsamsul\treeimage;
 
 use yii\web\AssetBundle;
 use yii\web\View;
