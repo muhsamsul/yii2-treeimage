@@ -1,0 +1,21 @@
+{
+    "name": "muhsamsul/yii2-treeimage",
+    "description": "view tree with image and dependecies with tree-manager",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","treeimage","tree"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muh. Samsul Huda",
+            "email": "samsulhuda461@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "muhsamsul\\treeimage\\": ""
+        }
+    }
+}
