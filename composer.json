@@ -1,6 +1,6 @@
 {
     "name": "muhsamsul/yii2-treeimage",
-    "description": "view tree with image and dependecies with tree-manager",
+    "description": "View tree with organizational chart. Dependencies with kartik tree manager",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","treeimage","tree"],
     "license": "MIT",
@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "kartik-v/yii2-tree-manager": "@dev"
     },
     "autoload": {
         "psr-4": {

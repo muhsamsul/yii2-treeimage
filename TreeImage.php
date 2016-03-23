@@ -18,8 +18,11 @@ class TreeImage extends \yii\bootstrap\Widget
     
 
     public $root = 'Root';
+
     public $icon = 'user';
+
     public $iconRoot = 'tree-conifer';
+    
     public $query;
 
 
